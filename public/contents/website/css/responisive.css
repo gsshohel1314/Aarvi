@@ -1,0 +1,1115 @@
+/* XL (laptop) Device :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .fundraise_content_chart_content2 ul li:nth-child(2) {
+        padding: 15px 25px;
+    }
+
+    .header_part .menu_part .navbar-brand {
+        left: 1%;
+        top: -17px;
+    }
+
+    /*  .international_donation_part .international_donation_content .col-6.bor-l ul li:nth-child(5){
+        padding: 26.75px 0px 26.75px 15px;
+    }*/
+    .donation_dtls_part .side_img {
+        width: 350px;
+    }
+       .awards_dtls_part .awards_dtls_img::before {
+        height: 200px;
+        width: 200px;
+        left: -20px;
+        top: -20px;
+    }
+}
+
+
+/* LG Device :992px. */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .header_part .menu_part .navbar-brand {
+        left: 3%;
+        top: -17px;
+        padding-right: 100px;
+    }
+
+    .header_part .navbar-nav .nav-item .btn_menu {
+        padding: 15px 25px;
+        font-size: 18px;
+        margin-left: 20px;
+    }
+
+    .header_part .menu .nav-item .nav-link {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+
+    .header_part .menu_part .navbar-brand {
+        left: 0;
+        top: -7px;
+        padding-right: 50px;
+        height: 170px;
+        width: 170px;
+    }
+
+    .header_part .menu .nav-item .nav-link {
+        padding: 10px 5px;
+        font-size: 12px;
+    }
+
+    .banner_part .banner_item_slide .overlay_banner {
+        padding: 140px 0px;
+    }
+
+    h1 {
+        font-size: 42px;
+    }
+
+    .banner_part .banner_item_slide .overlay_banner .banner_slide_content h5 {
+        font-size: 22px;
+    }
+
+    .founder_about_part .founder_about_content h5 {
+        font-size: 38px;
+    }
+
+    .founder_about_img img {
+        height: 354px;
+    }
+
+    .sponser_child_part .sponser_child_content a {
+        padding: 15px 20px;
+        font-size: 17px;
+    }
+
+    .sponser_child_video {
+        margin-left: -100%;
+    }
+
+    .gallery_part .gallery_img_big .overlay_gallery h4 {
+        padding: 0px 50px;
+        font-size: 15px;
+        margin-top: 66px;
+    }
+
+    .our_blog_part .blog_slide_content h4 {
+        font-size: 13px;
+    }
+
+    .subscribe_part .subscribe_content h6 {
+        font-size: 17px;
+    }
+
+    .subscribe_part .subscribe_content form .sub_btn {
+        padding: 0px 31px;
+    }
+
+    .footer_part .ft_logo ul li a {
+        margin-right: 7px;
+    }
+
+    .footer_part .copy_right p a {
+        font-size: 13px;
+    }
+
+    .our_team_part .team_item .team_item_img .team_item_img_overlay h4 {
+        padding-top: 35px;
+    }
+
+    .career_job_part .career_job_content {
+        min-height: 461px;
+    }
+
+    .fundraise_content_part .fundraise_content_cont h3 {
+        font-size: 28px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(1) {
+        padding: 15px 25px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(2) {
+        padding: 30px 25px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(3) {
+        padding: 15px 25px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(4) {
+        padding: 15px 25px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(5) {
+        padding: 15px 25px;
+    }
+
+    .fundraise_aravi_prev_part .fundraise_aravi_prev_item .fundraise_aravi_prev_item_img .fundraise_aravi_prev_item_img_ovelay h4 {
+        font-size: 15px;
+        padding-left: 15px;
+        padding-top: 40px;
+    }
+
+    .volunteer_working_part .volunteer_working_content ul {
+        padding-bottom: 30px;
+    }
+
+    .volunteer_working_part .volunteer_working_content_img {}
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg .volunteer_join_team_content p span {
+        font-size: 14px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg .volunteer_join_team_content a {
+        font-size: 14px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_form_bg .volunteer_join_team_form form .form-control {
+        font-size: 14px;
+    }
+
+    .type_of_project_part .type_of_project_iteam h4 {
+        font-size: 20px;
+    }
+
+    .type_of_project_part .type_of_project_iteam {
+        padding: 15px;
+    }
+
+    .past_event_part .blog_slide_content {
+        min-height: 360px;
+    }
+
+    .volunteer_with_part .volunteer_with_cont h3 {
+        padding-top: 0px;
+    }
+
+    .international_donation_part .international_donation_content .col-6.bor-l ul li:nth-child(5) {
+        padding: 26.75px 0px 26.75px 15px;
+    }
+
+    .donation_dtls_part .side_img {
+        width: 285px;
+    }
+
+    .wining_awards_part .slide_wining_awards_item h4 {
+        font-size: 15px;
+    }
+
+    .awards_dtls_part .awards_dtls_img::before {
+        height: 200px;
+        width: 200px;
+        left: -20px;
+        top: -20px;
+    }
+}
+
+
+/* -- middium Device -- */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .mdmt_30 {
+        margin-top: 30px;
+    }
+
+    .header_part .menu_part .navbar-brand {
+        left: 0;
+        top: 0px;
+        padding-right: 50px;
+        height: 120px;
+        width: 120px;
+    }
+
+    .header_part .menu .nav-item .nav-link {
+        padding: 10px 3px;
+        font-size: 10px;
+    }
+
+    .header_part .navbar-nav .nav-item .btn_menu {
+        padding: 11px 20px;
+        font-size: 14px;
+        margin-left: 15px;
+    }
+
+    .banner_part .banner_item_slide .overlay_banner {
+        padding: 120px 0px;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    .banner_part .banner_item_slide .overlay_banner .banner_slide_content h5 {
+        font-size: 18px;
+    }
+
+    .banner_part .owl-carousel .owl-nav .owl-next .arrow_rt {
+        right: 3%;
+    }
+
+    .banner_part .owl-carousel .owl-nav .owl-prev .arrow_lft {
+        left: 3%;
+    }
+
+    .founder_about_part .founder_about_content h5 {
+        font-size: 32px;
+        padding-bottom: 40px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    .sponser_child_part .sponser_child_content h6 {
+        font-size: 18px;
+    }
+
+    .sponser_child_part .sponser_child_content a {
+        padding: 11px 15px;
+        font-size: 13px;
+        font-weight: 400;
+        margin-right: 5px;
+    }
+
+    .gallery_part .gallery_img_big .overlay_gallery h4 {
+        padding: 0px 29px;
+        font-size: 14px;
+        margin-top: 42px;
+    }
+
+    .sing_up_part .sing_up_content h3 {
+        font-size: 26px;
+    }
+
+    .sing_up_part .sing_up_content a {
+        padding: 15px 50px;
+        font-size: 20px;
+        margin-top: 50px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .education_program_part .education_program_content h6 {
+        font-size: 17px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .recent_case_part .slide_case_item a {
+        font-size: 18px;
+    }
+
+    .our_blog_part .blog_slide_content h4 {
+        font-size: 15px;
+    }
+
+    .subscribe_part .subscribe_content h3 {
+        font-size: 26px;
+    }
+
+    .footer_part .ft_logo ul li a {
+        height: 35px;
+        width: 35px;
+        margin-right: 0px;
+    }
+
+    .footer_part .ft_logo ul li a i {
+        line-height: 35px;
+    }
+
+    .footer_part .quik_link ul li a {
+        font-size: 15px;
+        padding: 5px 0px;
+    }
+
+    .footer_part .ft_award ul li {
+        float: none;
+        display: inline-block;
+    }
+
+    .footer_part .ft_award ul li a img {
+        margin-bottom: 20px;
+        margin-right: 10px;
+        width: 72px;
+    }
+
+    .about_video_part .video_play_content .ovelay_video_play_content h4 {
+        font-size: 23px;
+        padding-top: 41px;
+    }
+
+    .about_video_part .video_play_content .ovelay_video_play_content a {
+        margin-top: 50px;
+    }
+
+    .misson_visition_part {
+        padding-top: 190px;
+        padding-bottom: 70px;
+        margin-top: -135px;
+    }
+
+    .about_video_part .about_video_content {
+        padding-bottom: 50px;
+    }
+
+    .our_team_part .team_item .team_item_img .team_item_img_overlay h4 {
+        font-size: 16px;
+        padding-bottom: 5px;
+        padding-top: 19px;
+    }
+
+    .career_job_part .career_job_content {
+        min-height: 400px;
+    }
+
+    .career_job_part .career_job_content p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .career_message_part .career_message_content {
+        padding: 60px 60px;
+    }
+
+    .help_part {
+        padding-top: 70px;
+        margin-top: 0;
+    }
+
+    .event_contant_part .event_contant_item .event_contant_item_content h3 {
+        font-size: 19px;
+        padding-bottom: 10px;
+    }
+
+    .event_contant_part .event_contant_item .event_contant_item_content_date h4 {
+        font-size: 50px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(1) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(2) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(3) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(4) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(5) {
+        padding: 25px 25px;
+    }
+
+    .fundraise_aravi_prev_part .fundraise_aravi_prev_item .fundraise_aravi_prev_item_img .fundraise_aravi_prev_item_img_ovelay h4 {
+        font-size: 15px;
+        padding-left: 15px;
+        padding-top: 40px;
+    }
+
+    .volunteer_working_part .volunteer_working_content ul {
+        padding-bottom: 30px;
+    }
+
+    .volunteer_working_part .volunteer_working_content_img {
+        padding-top: 50px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg .volunteer_join_team_content p span {
+        font-size: 11px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg .volunteer_join_team_content a {
+        font-size: 14px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_form_bg .volunteer_join_team_form form .form-control {
+        font-size: 14px;
+    }
+
+    .project_live_part .owl-carousel .owl-nav {
+        display: none !important;
+    }
+
+    .project_live_part .live_project_item a {
+        padding: 15px 40px 15px 40px;
+        margin-left: -100px;
+    }
+
+    .past_event_part .blog_slide_content {
+        min-height: 360px;
+    }
+
+    .volunteer_with_part .volunteer_with_cont h3 {
+        padding-top: 0px;
+
+    }
+
+    .international_donation_part .international_donation_content .col-6.bor-l ul li:nth-child(5) {
+        padding: 26.75px 0px 26.75px 15px;
+    }
+
+    .donation_dtls_part .side_img {
+        width: 232px;
+    }
+
+    .awards_item_part .awards_item .awards_item_cont a {
+        padding: 10px 15px 10px 15px;
+        font-size: 16px;
+        margin-right: 4px;
+    }
+
+    .big_awards_part .slide_big_awards_item .slide_big_awards_item_img .slide_big_awards_item_img_ovelay h4 {
+        font-size: 26px;
+        padding-left: 30px;
+    }
+
+    .awards_dtls_part .awards_dtls_img::before {
+        height: 170px;
+        width: 170px;
+        left: -21px;
+        top: -21px;
+    }
+
+    .wining_awards_part .slide_wining_awards_item h4 {
+        font-size: 17px;
+        padding-top: 15px;
+    }
+}
+
+
+/* -- Phone Landscape -- */
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .header_part .menu_part {
+        padding: 50px 0px 10px;
+    }
+
+    .header_part .menu_part .navbar-brand {
+        left: 0;
+        top: -20px;
+        padding-right: 0px;
+        height: 100px;
+        width: 100px;
+        z-index: none;
+    }
+
+    .header_part .menu_part .navbar-toggler {
+        position: relative;
+        left: 88%;
+        top: -25px;
+    }
+
+    .header_part .navbar-nav .nav-item .btn_menu {
+        margin-left: 0px;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(255, 255, 255, 0.95);
+        border-color: rgba(255, 255, 255, 0.95);
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 0.95)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    .banner_part .banner_item_slide .overlay_banner {
+        padding: 100px 0px;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+
+    .banner_part .banner_item_slide .overlay_banner .banner_slide_content h5 {
+        font-size: 20px;
+    }
+
+    .banner_part .owl-carousel .owl-nav .owl-prev .arrow_lft {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        left: 2%;
+        font-size: 22px;
+    }
+
+    .banner_part .owl-carousel .owl-nav .owl-next .arrow_rt {
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+        right: 2%;
+        font-size: 22px;
+    }
+
+    .founder_about_part .founder_about_content h5 {
+        font-size: 25px;
+        padding-bottom: 50px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+
+    .smmt_30 {
+        margin-top: 30px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .sponser_child_part .sponser_child_content h6 {
+        font-size: 16px;
+    }
+
+    .sponser_child_part .sponser_child_content a {
+        padding: 12px 27px;
+        font-size: 14px;
+        margin-right: 0px;
+        margin-bottom: 25px;
+    }
+
+    .sponser_child_part .sponser_child_video {
+        margin-left: -173%;
+    }
+
+    .gallery_part .gallery_img_big .overlay_gallery h4 {
+        font-size: 18px;
+        margin-top: 65px;
+    }
+
+    .sing_up_part .sing_up_content h3 {
+        font-size: 26px;
+    }
+
+    .sing_up_part .sing_up_content a {
+        padding: 15px 43px;
+        font-size: 19px;
+        margin-top: 30px;
+    }
+
+    .recent_case_part .slide_case_item a {
+        font-size: 17px;
+    }
+
+    .recent_case_part .slide_case_item h4 {
+        font-size: 17px;
+    }
+
+    .subscribe_part .subscribe_content h6 {
+        color: #ffffff;
+        font-size: 16px;
+        padding-bottom: 35px;
+    }
+
+    .subscribe_part .subscribe_content form .input_text {
+        width: 80%;
+        font-size: 16px;
+    }
+
+    .subscribe_part .subscribe_content form .sub_btn {
+        margin-left: -16.5%;
+        padding: 0px 12px;
+    }
+
+    .subscribe_part .subscribe_content h3 {
+        font-size: 26px;
+    }
+
+    .about_video_part .about_video_content h3 {
+        font-size: 26px;
+    }
+
+    .about_video_part .about_video_content p {
+        font-size: 14px;
+    }
+
+    .about_video_part .about_video_content {
+        padding-bottom: 60px;
+    }
+
+    .about_video_part .video_play_content .ovelay_video_play_content h4 {
+        font-size: 20px;
+        padding-top: 30px;
+    }
+
+    .about_video_part .video_play_content .ovelay_video_play_content a {
+        height: 90px;
+        width: 90px;
+        margin-top: 15px;
+    }
+
+    .misson_visition_part {
+        padding-top: 155px;
+        padding-bottom: 60px;
+        margin-top: -102px;
+    }
+
+    .py_90 {
+        padding: 60px 0px;
+    }
+
+    .career_message_part .career_message_content {
+        padding: 40px 40px;
+    }
+
+    .help_part {
+        padding-top: 50px;
+        margin-top: 0;
+    }
+
+    .event_contant_item_img img {
+        width: 100%;
+        padding-bottom: 30px;
+    }
+
+    .fundraise_content_part .fundraise_content_cont h3 {
+        font-size: 18px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(1) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(2) {
+        padding: 45px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(3) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(4) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(5) {
+        padding: 30px 25px !important;
+    }
+
+    .fundraise_content_message_part .fundraise_content_message_cont h5 {
+        font-size: 17px;
+        padding-bottom: 20px;
+    }
+
+    .fundraise_aravi_prev_part .fundraise_aravi_prev_item .fundraise_aravi_prev_item_img .fundraise_aravi_prev_item_img_ovelay h4 {
+        font-size: 16px;
+        padding-left: 14px;
+        padding-top: 15px;
+    }
+
+    .volunteer_working_part .volunteer_working_content h4 {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
+
+    .volunteer_working_part .volunteer_working_content ul {
+        padding-bottom: 30px;
+    }
+
+    .volunteer_working_part .volunteer_working_content_img {
+        padding-top: 50px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg {
+        min-height: 355px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_form_bg .volunteer_join_team_form form .form-control {
+        font-size: 14px;
+    }
+
+    .project_live_part .owl-carousel .owl-nav {
+        display: none;
+    }
+
+    .type_of_project_part .type_of_project_iteam h4 {
+        font-size: 14px;
+    }
+
+    .type_of_project_part .type_of_project_iteam h4 span {
+        margin-right: 6px;
+    }
+
+    .header_part .menu .nav-item > ul {
+        left: 127px;
+    }
+
+    .donnet_part .overlay_donnet_part .donnet_part_content p {
+        padding: 20px 0px;
+    }
+
+    .volunteer_with_part .volunteer_with_cont h3 {
+        padding-top: 0px;
+
+    }
+
+    .international_donation_part .international_donation_content .col-6.bor-l ul li:nth-child(5) {
+        padding: 26.75px 0px 26.75px 15px;
+    }
+
+    .donation_dtls_part .side_img {
+        width: 174px;
+    }
+
+    .awards_item_part .awards_item .awards_item_cont h3 {
+        padding-top: 25px;
+    }
+
+    .big_awards_part .slide_big_awards_item .slide_big_awards_item_img .slide_big_awards_item_img_ovelay h4 {
+        font-size: 22px;
+        padding-left: 30px;
+    }
+
+    .awards_dtls_part .awards_dtls_img::before {
+        height: 150px;
+        width: 150px;
+        left: -17px;
+        top: -17px;
+
+    }
+
+    .awards_dtls_part .awards_dtls_content h3 {
+        padding: 0px 0px 30px;
+    }
+}
+
+
+/* mobile size 480 small Device. */
+
+@media (min-width: 400px) and (max-width: 480px) {}
+
+
+/* Extra small Device. */
+
+@media (min-width: 320px) and (max-width: 575px) {
+    .header_part .menu_part {
+        padding: 50px 0px 10px;
+    }
+
+    .header_part .menu_part .navbar-brand {
+        left: 0;
+        top: -20px;
+        padding-right: 0px;
+        height: 100px;
+        width: 100px;
+        z-index: none;
+    }
+
+    .header_part .menu_part .navbar-toggler {
+        position: relative;
+        left: 80%;
+        top: -25px;
+    }
+
+    .header_part .navbar-nav .nav-item .btn_menu {
+        margin-left: 0px;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgba(255, 255, 255, 0.95);
+        border-color: rgba(255, 255, 255, 0.95);
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 0.95)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    .banner_part .owl-carousel .owl-nav {
+        display: none;
+    }
+
+    .banner_part .banner_item_slide .overlay_banner .banner_slide_content h5 {
+        font-size: 16px;
+    }
+
+    .banner_part .banner_item_slide .overlay_banner {
+        padding: 70px 0px;
+    }
+
+    .founder_about_part .founder_about_content h5 {
+        font-size: 25px;
+    }
+
+    .py_90 {
+        padding: 50px 0px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .common_heading h6 {
+        font-size: 18px;
+    }
+
+    .mmt_30 {
+        margin-top: 30px;
+    }
+
+    .sponser_child_part .sponser_child_part_img {
+        left: 0;
+        width: 100%;
+        top: 530px;
+        height: 100%;
+    }
+
+    .sponser_child_part .sponser_child_content h6 {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+
+    .sponser_child_part .sponser_child_content p {
+        padding-bottom: 25px;
+    }
+
+    .sponser_child_part .sponser_child_content a {
+        margin-top: 30px;
+    }
+
+    .sponser_child_video {
+        margin-left: -12.5%;
+    }
+
+    .gallery_part .gallery_img .overlay_gallery h4 {
+        font-size: 18px;
+        margin-top: 120px;
+    }
+
+    .gallery_part .gallery_img_big .overlay_gallery h4 {
+        font-size: 18px;
+        margin-top: 50px;
+    }
+
+    .subscribe_part .subscribe_content h3,
+    .sing_up_part .sing_up_content h3 {
+        font-size: 26px;
+    }
+
+    .sing_up_part2 {
+        padding: 50px 0px;
+    }
+
+    .education_program_part .education_program_img_bg {
+        display: none;
+    }
+
+    .subscribe_part .subscribe_content h6 {
+        font-size: 16px;
+        padding-bottom: 25px;
+    }
+
+    .subscribe_part .subscribe_content form .input_text {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .subscribe_part .subscribe_content form .sub_btn {
+        margin-left: 0;
+    }
+
+    .footer_part .ft_logo ul li a {
+        margin-right: 8px;
+    }
+
+    .about_video_part .about_video_content h3 {
+        font-size: 26px;
+    }
+
+    .about_video_part {
+        padding-top: 50px;
+    }
+
+    .about_video_part .about_video_content {
+        padding-bottom: 40px;
+    }
+
+    .about_video_part .about_video_content p {}
+
+    .about_video_part .video_play_content .ovelay_video_play_content h4 {
+        font-size: 16px;
+        padding-top: 10px;
+    }
+
+    .about_video_part .video_play_content .ovelay_video_play_content a {
+        height: 50px;
+        width: 50px;
+        margin-top: 20px;
+    }
+
+    .about_video_part .video_play_content .ovelay_video_play_content a i {
+        line-height: 50px;
+        font-size: 20px;
+    }
+
+    .misson_visition_part {
+        padding-top: 100px;
+        padding-bottom: 50px;
+        margin-top: -50px;
+    }
+
+    .career_message_part .career_message_content {
+        padding: 30px 20px;
+        margin-top: -50px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    .career_job_part .career_job_content p {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+
+    .career_job_part .career_job_content {
+        min-height: 415px;
+    }
+
+    .help_part {
+        padding-top: 50px;
+        margin-top: 0;
+    }
+
+    .event_contant_part .event_contant_item .event_contant_item_content h3 {
+        padding-top: 20px;
+    }
+
+    .event_contant_part .event_contant_item .event_contant_item_content_date h4 {
+        padding-top: 30px;
+    }
+
+    .fundraise_content_part .fundraise_content_cont h3 {
+        padding-top: 30px;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(1) {
+        padding: 25px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(2) {
+        padding: 34px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(3) {
+        padding: 35px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(4) {
+        padding: 34px 25px !important;
+    }
+
+    .fundraise_content_chart_content2 ul li:nth-child(5) {
+        padding: 25px 25px !important;
+    }
+
+    .fundraise_content_part .fundraise_content_chart .fundraise_content_chart_content ul li {
+        font-size: 13px;
+    }
+
+    .fundraise_content_message_part .fundraise_content_message_cont h5 {
+        font-size: 17px;
+        padding-bottom: 15px;
+    }
+
+    .fundraise_aravi_prev_part .fundraise_aravi_prev_item .fundraise_aravi_prev_item_img .fundraise_aravi_prev_item_img_ovelay h4 {
+        font-size: 15px;
+        padding-top: 35px;
+    }
+
+    .others_banner_part .ovelay_others_banner .banner_others_content nav .breat_come .breadcrumb-item a,
+    .others_banner_part .ovelay_others_banner .banner_others_content nav .breat_come .breadcrumb-item {
+        font-size: 15px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg .volunteer_join_team_content p span {
+        font-size: 14px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg .volunteer_join_team_content a {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_content_bg {
+        min-height: 344px;
+    }
+
+    .volunteer_join_team_part .volunteer_join_team_form_bg .volunteer_join_team_form form .form-control {
+        font-size: 12px;
+    }
+
+    .project_live_part .owl-carousel .owl-nav {
+        display: none;
+    }
+
+    .project_live_part .live_project_item a {
+        padding: 15px 19px 15px 21px;
+        margin-left: -100px;
+    }
+
+    .donnet_part .overlay_donnet_part .donnet_part_content p {
+        padding: 20px 0px;
+    }
+
+    .donation_dtls_part .side_img {
+        display: none;
+    }
+
+    .international_donation_part .international_donation_content .col-6 ul li {
+        font-size: 14px;
+    }
+
+    .international_donation_part .international_donation_content .col-6.bor-r ul li:nth-child(1) {
+        padding: 25.5px 0px 25.5px 15px;
+    }
+
+    .international_donation_part .international_donation_content .col-6.bor-l ul li:nth-child(5) {
+        padding: 35px 0px 36px 15px;
+    }
+
+    .international_donation_part .international_donation_overlay {
+        padding: 57px 0px;
+    }
+
+    .awards_item_part .awards_item .awards_item_cont h3 {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+
+    .awards_item_part .awards_item .awards_item_cont p {
+
+        padding-bottom: 0px;
+    }
+
+    .awards_item_part .awards_item .awards_item_cont a {
+        margin-top: 25px;
+    }
+
+    .big_awards_part .slide_big_awards_item .slide_big_awards_item_img .slide_big_awards_item_img_ovelay h4 {
+        font-size: 13px;
+        padding-left: 20px;
+    }
+
+    .awards_dtls_part {
+        padding-top: 90px;
+    }
+
+    .wining_awards_part .slide_wining_awards_item h4 {
+        font-size: 15px;
+    }
+
+}
